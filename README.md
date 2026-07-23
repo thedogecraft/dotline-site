@@ -17,4 +17,4 @@ pnpm dev
 docker compose up --build
 ```
 
-Runs on `http://localhost:3456`.
+Runs on `http://localhost:3426`.
