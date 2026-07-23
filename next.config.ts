@@ -1,6 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  basePath: "/dotline",
   output: "standalone",
   images: {
     remotePatterns: [
