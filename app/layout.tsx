@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "https://raw.githubusercontent.com/thedogecraft/dotline/refs/heads/main/resources/dotline.png",
+        url: "https://raw.githubusercontent.com/parcoil/dotline/refs/heads/main/resources/dotline.png",
         width: 512,
         height: 512,
       },
@@ -52,12 +52,12 @@ export const metadata: Metadata = {
     description:
       "Dotline is a modern, cross-platform crosshair overlay for PC gaming. Customize your crosshair with 5 styles, adjustable color, opacity, thickness, and more.",
     images: [
-      "https://raw.githubusercontent.com/thedogecraft/dotline/refs/heads/main/resources/dotline.png",
+      "https://raw.githubusercontent.com/parcoil/dotline/refs/heads/main/resources/dotline.png",
     ],
   },
   icons: {
     icon: new URL(
-      "https://raw.githubusercontent.com/thedogecraft/dotline/refs/heads/main/resources/dotline.png",
+      "https://raw.githubusercontent.com/parcoil/dotline/refs/heads/main/resources/dotline.png",
     ),
   },
   alternates: {

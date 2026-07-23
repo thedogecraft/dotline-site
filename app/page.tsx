@@ -104,7 +104,7 @@ export default function Home() {
       <section className="mx-auto max-w-5xl px-4 pb-20">
         <div className="overflow-hidden rounded-xl border border-border bg-card shadow-xl">
           <Image
-            src="https://raw.githubusercontent.com/thedogecraft/dotline/refs/heads/main/images/appscreenshot.png"
+            src="https://raw.githubusercontent.com/parcoil/dotline/refs/heads/main/images/appscreenshot.png"
             alt="Dotline app screenshot"
             width={1200}
             height={800}
@@ -194,7 +194,7 @@ export default function Home() {
             <div className="rounded-xl border border-primary bg-card p-6 shadow-md transition-shadow hover:shadow-lg">
               <div className="mb-4 flex items-center gap-2">
                 <Image
-                  src="https://raw.githubusercontent.com/thedogecraft/dotline/refs/heads/main/resources/dotline.png"
+                  src="https://raw.githubusercontent.com/parcoil/dotline/refs/heads/main/resources/dotline.png"
                   alt="Dotline"
                   width={28}
                   height={28}

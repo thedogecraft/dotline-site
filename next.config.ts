@@ -8,13 +8,14 @@ const nextConfig: NextConfig = {
       {
         protocol: "https",
         hostname: "raw.githubusercontent.com",
-        pathname: "/thedogecraft/dotline/**",
-        search: "",
       },
       {
         protocol: "https",
         hostname: "store-images.s-microsoft.com",
-        search: "",
+      },
+      {
+        protocol: "https",
+        hostname: "cdn.jsdelivr.net",
       },
     ],
   },
