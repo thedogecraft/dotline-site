@@ -1,0 +1,5 @@
+services:
+  dotline-site:
+    build: .
+    ports:
+      - "3456:3456"
